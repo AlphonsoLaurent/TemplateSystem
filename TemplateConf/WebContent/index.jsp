@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Test of Concept</title>
+    <title>Administración escolar</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
@@ -51,7 +51,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="pages/index.html">Test of concept</a>
+                <a class="navbar-brand" href="pages/index.html">Administración escolar</a>
             </div>
             <!-- /.navbar-header -->
 
